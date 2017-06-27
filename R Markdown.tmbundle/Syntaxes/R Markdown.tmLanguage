@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>Rmd</string>
+	</array>
+	<key>name</key>
+	<string>R Markdown</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>begin</key>
+			<string>^```\{?r[^}]*\}?$</string>
+			<key>contentName</key>
+			<string>source.r.rmarkdown</string>
+			<key>end</key>
+			<string>^```\s*$</string>
+			<key>name</key>
+			<string>meta.embedded.block.rmarkdown</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>include</key>
+					<string>source.r</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>(`)r </string>
+			<key>beginCaptures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.section.embedded.begin.rmarkdown</string>
+				</dict>
+			</dict>
+			<key>contentName</key>
+			<string>source.r.rmarkdown</string>
+			<key>end</key>
+			<string>`</string>
+			<key>endCaptures</key>
+			<dict>
+				<key>0</key>
+				<dict>
+					<key>name</key>
+					<string>punctuation.section.embedded.end.rmarkdown</string>
+				</dict>
+			</dict>
+			<key>name</key>
+			<string>meta.embedded.line.rmarkdown</string>
+			<key>patterns</key>
+			<array>
+				<dict>
+					<key>include</key>
+					<string>source.r</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>text.html.markdown</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>text.html.rmarkdown</string>
+	<key>uuid</key>
+	<string>BF8ABB79-2127-4C4C-893F-2B4DCCFBA227</string>
+</dict>
+</plist>

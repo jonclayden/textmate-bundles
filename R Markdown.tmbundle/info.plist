@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>pbqr@pynlqra.bet</string>
+	<key>contactName</key>
+	<string>Jon Clayden</string>
+	<key>description</key>
+	<string>Basic bundle for R Markdown (http://rmarkdown.rstudio.com), a dialect of Markdown which can include chunks of R code.</string>
+	<key>name</key>
+	<string>R Markdown</string>
+	<key>uuid</key>
+	<string>4A457845-509D-41DF-8EC1-92FA9819179E</string>
+</dict>
+</plist>
