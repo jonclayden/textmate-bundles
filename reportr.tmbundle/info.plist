@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>pbqr@pynlqra.bet</string>
+	<key>contactName</key>
+	<string>Jon Clayden</string>
+	<key>description</key>
+	<string>Snippets for reportr function calls.</string>
+	<key>name</key>
+	<string>reportr</string>
+	<key>uuid</key>
+	<string>818A44AB-98D1-4574-8181-7CA45418DE75</string>
+</dict>
+</plist>

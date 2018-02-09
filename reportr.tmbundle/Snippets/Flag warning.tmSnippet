@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>flag(OL\$Warning, "$1")$0</string>
+	<key>name</key>
+	<string>Flag warning</string>
+	<key>scope</key>
+	<string>source.r</string>
+	<key>tabTrigger</key>
+	<string>warn</string>
+	<key>uuid</key>
+	<string>FD5F1F8E-5C7D-4A93-BC49-839E36278A68</string>
+</dict>
+</plist>

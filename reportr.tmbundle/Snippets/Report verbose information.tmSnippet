@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>report(OL\$Verbose, "$1")$0</string>
+	<key>name</key>
+	<string>Report verbose information</string>
+	<key>scope</key>
+	<string>source.r</string>
+	<key>tabTrigger</key>
+	<string>verb</string>
+	<key>uuid</key>
+	<string>61A473FD-3DF9-4579-B10D-352F68F138F3</string>
+</dict>
+</plist>

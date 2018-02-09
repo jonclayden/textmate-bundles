@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>runExperiment &lt;- function ()
+{
+    $0
+}
+</string>
+	<key>name</key>
+	<string>Create runExperiment function</string>
+	<key>scope</key>
+	<string>source.r</string>
+	<key>tabTrigger</key>
+	<string>efun</string>
+	<key>uuid</key>
+	<string>B2821AA9-B345-43C8-8B50-6A1B947A216F</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:rName} &lt;- getConfigVariable("${2:externalName}", ${3:defaultValue})</string>
+	<key>name</key>
+	<string>TractoR "getConfigVariable" statement</string>
+	<key>scope</key>
+	<string>source.r</string>
+	<key>tabTrigger</key>
+	<string>gcv</string>
+	<key>uuid</key>
+	<string>5C636021-203A-459E-AB18-5DFCC5D59E58</string>
+</dict>
+</plist>

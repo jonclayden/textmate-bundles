@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#@args </string>
+	<key>name</key>
+	<string>TractoR script arguments</string>
+	<key>scope</key>
+	<string>source.r</string>
+	<key>tabTrigger</key>
+	<string>args</string>
+	<key>uuid</key>
+	<string>2498E274-DF36-43CC-B5E3-05B7A5D2EFF8</string>
+</dict>
+</plist>
